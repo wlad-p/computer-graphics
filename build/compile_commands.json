@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/wlad/Uni/computer-graphics/task1/build",
+  "command": "/usr/bin/g++   -g -o CMakeFiles/task1.dir/src/main.cpp.o -c /home/wlad/Uni/computer-graphics/task1/src/main.cpp",
+  "file": "/home/wlad/Uni/computer-graphics/task1/src/main.cpp"
+},
+{
+  "directory": "/home/wlad/Uni/computer-graphics/task1/build",
+  "command": "/usr/bin/gcc   -g -o CMakeFiles/task1.dir/src/glad.c.o -c /home/wlad/Uni/computer-graphics/task1/src/glad.c",
+  "file": "/home/wlad/Uni/computer-graphics/task1/src/glad.c"
+}
+]
